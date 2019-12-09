@@ -7,7 +7,6 @@ documentation = "https://docs.rs/wow"
 repository = "https://github.com/jellybobbin/wow"
 license = "MIT"
 keywords = ["http", "web", "framework"]
-edition = "2018"
 authors = ["jellybobbin <jellybobbin@gmail.com>"]
 edition = "2018"
 
