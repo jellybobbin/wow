@@ -1,6 +1,6 @@
 [package]
 name = "wow"
-version = "0.1.01"
+version = "0.1.2"
 description = "A fast web framework"
 readme = "README.md"
 documentation = "https://docs.rs/wow"
